@@ -1,0 +1,33 @@
+{
+	
+  "basics":{
+  "co":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+  "Achive":{
+  	"details":"I won 1st prize in my skool"
+  },
+  "education":[
+    {
+    "name":"S S c",
+    "inst":"zph school in vijayawada with 95%"
+  },
+  {
+    "name":"intermediate:",
+    "inst":"completed my intermediate with 94%"
+  },
+  {
+    "name":"btech",
+  "inst":"aliet"
+}
+],
+"tech":[
+  {
+  "op":"operating system:",
+  "values":"windows,linux,ect."
+},
+{
+  "op":"languages",
+  "values":"HTML5,CSS3,javascript,Angular JS"
+  }
+]
+}
